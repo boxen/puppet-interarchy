@@ -1,4 +1,4 @@
-# Interarchy provisioning
+# Install Interarchy
 class interarchy (
   $version = '1004',
   ) {
