@@ -1,15 +1,7 @@
-[![Build Status](https://travis-ci.org/boxen/puppet-interarchy.png?branch=master)](https://travis-ci.org/boxen/puppet-interarchy)
 # Interarchy Puppet Module for Boxen
 
-An Interarchy module for Boxen, sure enough.
-http://nolobe.com/interarchy/
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-## Usage
-
-```puppet
-include interarchy
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
